@@ -1,0 +1,8 @@
+
+Risk_ID,Risk_Description,Likelihood,Impact
+R001,Phishing attacks,4,5
+R002,Weak passwords,4,4
+R003,Unauthorized access,3,5
+R004,Unpatched software,4,4
+R005,Data leakage,3,5
+  
